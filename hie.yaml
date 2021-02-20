@@ -1,0 +1,14 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "haskell-pbt:lib"
+
+    - path: "./app/Main.hs"
+      component: "haskell-pbt:exe:haskell-pbt-exe"
+
+    - path: "./app/Paths_haskell_toy_example.hs"
+      component: "haskell-pbt:exe:haskell-pbt-exe"
+
+    - path: "./test"
+      component: "haskell-pbt:test:haskell-pbt-test"
+
