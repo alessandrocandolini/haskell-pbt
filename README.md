@@ -3,6 +3,7 @@
 Playground to see how the examples of "Property-Based Testing with PropEr, Erlang, and Elixir" by Fred Hebert (or variations inspired by those examples) can be implemented in Haskell using quickcheck. It's also a playground for a number of related libraries and topics:
 * https://hackage.haskell.org/package/QuickCheck-2.14.2/docs/Test-QuickCheck-Monadic.html
 * https://hackage.haskell.org/package/quickcheck-state-machine
+* https://hackage.haskell.org/package/quickcheck-higherorder
 * https://hackage.haskell.org/package/dejafu
 
 
@@ -12,6 +13,10 @@ References:
 1. J. Hughes, [Testing Monadic Code with QuickCheck](https://www.researchgate.net/publication/2831386_Testing_Monadic_Code_with_QuickCheck)
 2. R. Nilsson, [Testing Stateful Systems with ScalaCheck](https://www.youtube.com/watch?v=Yg660RrAt2I)
 3. M. Walker, C. Runciman, [Déjà Fu: a concurrency testing library for Haskell](https://dl.acm.org/doi/10.1145/2887747.2804306)
+
+See also:
+* https://blog.poisson.chat/posts/2020-02-24-quickcheck-higherorder.html
+* https://dev.to/meeshkan/stateful-property-based-testing-with-quickcheck-state-machine-4mp5
 
 
 ## How to build and run locally
