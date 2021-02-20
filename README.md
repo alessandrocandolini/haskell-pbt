@@ -1,5 +1,11 @@
 # haskell-pbt
 
+Playground to see how the examples of "Property-Based Testing with PropEr, Erlang, and Elixir" by Fred Hebert can be implemented in Haskell using quickcheck. It's also a playground for a number of related libraries and topics:
+* quickcheck monadicIO 
+* https://hackage.haskell.org/package/quickcheck-state-machine
+* https://hackage.haskell.org/package/dejafu
+
+
 ## How to build and run locally
 
 The project uses the [Haskell tool stack](https://docs.haskellstack.org/en/stable/README/).
