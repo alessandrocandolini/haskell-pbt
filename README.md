@@ -10,7 +10,8 @@ References:
 
 1. F. Hebert, [Property-Based Testing with PropEr, Erlang, and Elixir](https://pragprog.com/titles/fhproper/property-based-testing-with-proper-erlang-and-elixir/)
 1. J. Hughes, [Testing Monadic Code with QuickCheck](https://www.researchgate.net/publication/2831386_Testing_Monadic_Code_with_QuickCheck)
-1. M. Walker, C. Runciman, [Déjà Fu: a concurrency testing library for Haskell](https://dl.acm.org/doi/10.1145/2887747.2804306)
+2. R. Nilsson, [Testing Stateful Systems with ScalaCheck](https://www.youtube.com/watch?v=Yg660RrAt2I)
+3. M. Walker, C. Runciman, [Déjà Fu: a concurrency testing library for Haskell](https://dl.acm.org/doi/10.1145/2887747.2804306)
 
 
 ## How to build and run locally
